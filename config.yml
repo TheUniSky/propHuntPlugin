@@ -1,0 +1,154 @@
+TimeForHide: 20
+PropsHuntsGamesWorlds:
+  PropHunt1:
+    WorldName: ""
+    MinPlayers: 5
+    MaxsPlayers: 20
+    LaunchTime: 20
+    GameTime: 300
+    PropHuntEnterMessage: "&5bienvenue dans le prop hunt"
+    PropHuntMessageIsTitle: true
+
+    PropsSpawnLocation:
+      x: 
+      y: 
+      z: 
+    HuntersSpawnsLocation:
+      x:
+      y:
+      z:
+  PropHunt2:
+    WorldName: ""
+    MinPlayers: 5
+    MaxsPlayers: 20
+    LaunchTime: 20
+    GameTime: 300
+    PropHuntMessage: "&5bienvenue dans le prop hunt"
+    PVPBoxMessageIsTitle: true
+    PropsSpawnLocation:
+      x: 
+      y: 
+      z: 
+    HuntersSpawnsLocation:
+      x:
+      y:
+      z:
+  PropHunt3:
+    WorldName: ""
+    MinPlayers: 5
+    MaxsPlayers: 20
+    LaunchTime: 20
+    GameTime: 300
+    PropHuntMessage: "&5bienvenue dans le prop hunt"
+    PropHuntMessageIsTitle: true
+    PropsSpawnLocation:
+      x: 
+      y: 
+      z: 
+    HuntersSpawnsLocation:
+      x:
+      y:
+      z:
+  PropHunt4:
+    WorldName: ""
+    MinPlayers: 5
+    MaxsPlayers: 20
+    LaunchTime: 20
+    GameTime: 300
+    PropHuntEnterMessage: "&5bienvenue dans le prop hunt"
+    PropHuntMessageIsTitle: true
+    PropsSpawnLocation:
+      x: 
+      y: 
+      z: 
+    HuntersSpawnsLocation:
+      x:
+      y:
+      z:
+  PropHunt5:
+    WorldName: ""
+    MinPlayers: 5
+    MaxsPlayers: 20
+    LaunchTime: 20
+    GameTime: 300
+    PropHuntEnterMessage: "&5bienvenue dans le prop hunt"
+    PropHuntMessageIsTitle: true
+    PropsSpawnLocation:
+      x: 
+      y: 
+      z: 
+    HuntersSpawnsLocation:
+      x:
+      y:
+      z:
+  PropHunt6:
+    WorldName: ""
+    MinPlayers: 5
+    MaxsPlayers: 20
+    LaunchTime: 20
+    GameTime: 300
+    PropHuntEnterMessage: "&5bienvenue dans le prop hunt"
+    PropHuntMessageIsTitle: true
+    PropsSpawnLocation:
+      x: 
+      y: 
+      z: 
+    HuntersSpawnsLocation:
+      x:
+      y:
+      z:
+PropHuntSandBoxWorld:
+  PropHunt1:
+    WorldName: ""
+    MaxPlayerOnWorld: 20
+    PVPBoxEnterMessage: "&5bienvenue dans la PVPBox numéro 1"
+    PVPBoxMessageIsTitle: true
+    PvPBoxSpawnLocation:
+      x: 
+      y: 
+      z: 
+  PropHunt2:
+    WorldName: ""
+    MaxPlayerOnWorld: 20
+    PVPBoxEnterMessage: "&5bienvenue dans la PVPBox numéro 2"
+    PVPBoxMessageIsTitle: true
+    PvPBoxSpawnLocation:
+      x:
+      y:
+      z:
+  PropHunt3:
+    WorldName: ""
+    MaxPlayerOnWorld: 20
+    PVPBoxEnterMessage: "&5bienvenue dans la PVPBox numéro 3"
+    PVPBoxMessageIsTitle: true
+    PvPBoxSpawnLocation:
+      x:
+      y:
+      z:
+  PropHunt4:
+    WorldName: ""
+    MaxPlayerOnWorld: 20
+    PVPBoxEnterMessage: "&5bienvenue dans la PVPBox numéro 4"
+    PVPBoxMessageIsTitle: true
+    PvPBoxSpawnLocation:
+      x:
+      y:
+      z:
+  PropHunt5:
+    WorldName: ""
+    MaxPlayerOnWorld: 20
+    PVPBoxEnterMessage: "&5bienvenue dans la PVPBox numér5"
+    PVPBoxMessageIsTitle: true
+    PvPBoxSpawnLocation:
+      x:
+      y:
+      z:
+  PropHunt6:
+    WorldName: ""
+    MaxPlayerOnWorld: 20
+    PVPBoxEnterMessage: "&5bienvenue dans la PVPBox numéro6"
+    PVPBoxMessageIsTitle: true
+    PvPBoxSpawnLocation:
+      x:
+      y:
+      z:

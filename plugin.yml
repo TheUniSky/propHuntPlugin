@@ -1,0 +1,5 @@
+name: UniProphunt
+version: 1.0
+author: julien
+api-version: 1.17
+main: fr.julien.UniPropHunt.Main
